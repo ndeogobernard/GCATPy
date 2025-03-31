@@ -1,4 +1,4 @@
-# GCATPy: Crash Data Retrieval and Analysis
+# GCATPy: A Python Package for Crash Data Retrieval and Analysis
 A Package for Retrieving and Analyzing Crash Data from The Ohio Department of Transportation Crash Database
 
 ## GIS Crash Analysis Tool
